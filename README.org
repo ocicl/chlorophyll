@@ -4,6 +4,6 @@ ANSI escape code library for Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/gorozhin/chlorophyll.git |
-| commit  | f2a50ad                                         |
+| commit  | 4855394                                         |
 | systems | chlorophyll                                     |
 |---------+-------------------------------------------------|
